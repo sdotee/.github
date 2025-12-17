@@ -1,12 +1,32 @@
-## Hi there 👋
+# S.EE Open Source
 
-<!--
+This GitHub organization hosts the official open source projects for [**S.EE**](https://s.ee/),  a URL shortening and link sharing platform built for developers.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Repositories
+
+- 📘 **Docs**  
+  https://github.com/sdotee/docs  
+  Official documentation, API references, and guides.
+
+- ☕ **Java SDK**  
+  https://github.com/sdotee/sdk.java
+
+- 🦀 **Rust SDK**  
+  https://github.com/sdotee/sdk.rs
+
+- 🟦 **TypeScript SDK**  
+  https://github.com/sdotee/sdk.ts
+
+- 🐹 **Go SDK**  
+  https://github.com/sdotee/sdk.go
+
+- 🐍 **Python SDK**  
+  https://github.com/sdotee/sdk.py
+
+---
+
+## License
+
+All projects are released under the MIT License unless stated otherwise.
