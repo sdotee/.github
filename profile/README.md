@@ -40,7 +40,7 @@ We love the open source community! Contributions are welcome for all our SDKs an
 
 ## 🆘 Support & Community
 
-- **Email Support**: `support@s.ee`
+- **Email Support**: `hi@s.ee`
 - **Developer Contact**: `dev@s.ee`
 - **Status Page**: [status.s.ee](https://status.s.ee)
 
