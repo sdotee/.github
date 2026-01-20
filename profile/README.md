@@ -10,15 +10,15 @@ We build tools that help developers integrate link management capabilities into 
 
 We provide official SDKs for major programming languages to ensure type safety and easy integration.
 
-| Language       | Repository                                                | Package Manager                       |
-| :------------- | :-------------------------------------------------------- | :------------------------------------ |
-| **PHP**        | [**sdotee/sdk.php**](https://github.com/sdotee/sdk.php)   | `composer require sdotee/see-php-sdk` |
-| **TypeScript** | [**sdotee/sdk.ts**](https://github.com/sdotee/sdk.ts)     | `npm install see-sdk`                 |
-| **Go**         | [**sdotee/sdk.go**](https://github.com/sdotee/sdk.go)     | `go get github.com/sdotee/sdk.go`     |
-| **Python**     | [**sdotee/sdk.py**](https://github.com/sdotee/sdk.py)     | `pip install see-sdk`                 |
-| **Java**       | [**sdotee/sdk.java**](https://github.com/sdotee/sdk.java) | -                                     |
-| **Rust**       | [**sdotee/sdk.rs**](https://github.com/sdotee/sdk.rs)     | `cargo add see-sdk`                   |
-| **Zig(Experimental)** | [**sdotee/sdk.zig**](https://github.com/sdotee/sdk.zig) | - |
+| Language              | Repository                                                | Package Manager                   |
+| :-------------------- | :-------------------------------------------------------- | :-------------------------------- |
+| **PHP**               | [**sdotee/sdk.php**](https://github.com/sdotee/sdk.php)   | `composer require sdotee/sdk`     |
+| **TypeScript**        | [**sdotee/sdk.ts**](https://github.com/sdotee/sdk.ts)     | `npm install see-sdk`             |
+| **Go**                | [**sdotee/sdk.go**](https://github.com/sdotee/sdk.go)     | `go get github.com/sdotee/sdk.go` |
+| **Python**            | [**sdotee/sdk.py**](https://github.com/sdotee/sdk.py)     | `pip install see-sdk`             |
+| **Java**              | [**sdotee/sdk.java**](https://github.com/sdotee/sdk.java) | -                                 |
+| **Rust**              | [**sdotee/sdk.rs**](https://github.com/sdotee/sdk.rs)     | `cargo add see-sdk`               |
+| **Zig(Experimental)** | [**sdotee/sdk.zig**](https://github.com/sdotee/sdk.zig)   | -                                 |
 
 > *Note: Package implementation details may vary. Please check individual repositories for specific installation instructions.*
 
